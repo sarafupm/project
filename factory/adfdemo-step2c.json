@@ -1,0 +1,9 @@
+{
+	"name": "adfdemo-step2c",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "155dd9e4-d49f-430c-aa15-d4c9bbe75430",
+		"tenantId": "7945b8fd-beaf-4df5-bba2-0fb2e39fff03"
+	}
+}
